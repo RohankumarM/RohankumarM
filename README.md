@@ -13,8 +13,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a graduate student at Cal State East Bay.
 - 🌱 I’m currently working towards being a Full Stack developer.
 - 📫 How to reach me: rohan.maisuria1997@gmail.com
-[Website](https://rohankumarm.github.io/my-portfolio/)
 - ⚡ Fun fact: COVID PANDEMIC - Stay at 127.0.0.1
+
+[Website]: https://rohankumarm.github.io/my-portfolio/
+[LinkedIn]: https://www.linkedin.com/in/rohan-maisuria-458397172/
+
 
 <!--
 **RohankumarM/RohankumarM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
