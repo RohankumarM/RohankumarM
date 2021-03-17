@@ -6,9 +6,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohankumarm&layout=compact&langs_count=6)](https://github.com/rohankumarm/github-readme-stats)
 
 ![Alt Text](https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif)
-
-
-
 - 🔭 I’m currently a graduate student at Cal State East Bay.
 - 🌱 I’m currently working towards being a Full Stack developer.
 - 📫 How to reach me: rohan.maisuria1997@gmail.com
