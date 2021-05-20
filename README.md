@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Thanks for stopping by.
 
 
 
@@ -9,7 +9,7 @@
 - 🔭 I’m currently a graduate student at Cal State East Bay.
 - 🌱 I’m currently getting experienced towards being a Full Stack developer.
 - 📫 How to reach me: rohan.maisuria1997@gmail.com
-- ⚡ Fun fact: COVID PANDEMIC - Stay at 127.0.0.1
+- 🦠 COVID PANDEMIC - Stay at 127.0.0.1
 
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin]
