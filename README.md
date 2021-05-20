@@ -7,7 +7,7 @@
 
 ![Alt Text](https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif)
 - 🔭 I’m currently a graduate student at Cal State East Bay.
-- 🌱 Mastering Full Stack developer.
+- 🌱 Mastering Full Stack development.
 - 📫 How to reach me: rohan.maisuria1997@gmail.com
 - 🦠 COVID PANDEMIC - Stay at 127.0.0.1
 
